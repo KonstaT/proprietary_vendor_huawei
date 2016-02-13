@@ -159,7 +159,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libOmxIttiamVdec.so:system/vendor/lib/libOmxIttiamVdec.so \
     vendor/huawei/y560/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/huawei/y560/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
-    vendor/huawei/y560/proprietary/bin/perfd:system/bin/perfd \
+    vendor/huawei/y560/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/huawei/y560/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/huawei/y560/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/huawei/y560/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
@@ -209,7 +209,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/etc/calmodule.cfg:system/vendor/etc/calmodule.cfg \
     vendor/huawei/y560/proprietary/vendor/lib/libcalmodule_common.so:system/vendor/lib/libcalmodule_common.so \
     vendor/huawei/y560/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
-    vendor/huawei/y560/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/huawei/y560/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/huawei/y560/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/huawei/y560/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/huawei/y560/proprietary/bin/time_daemon:system/bin/time_daemon \
