@@ -116,37 +116,16 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/huawei/y560/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/huawei/y560/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
-    vendor/huawei/y560/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
-    vendor/huawei/y560/proprietary/bin/location-mq:system/bin/location-mq \
-    vendor/huawei/y560/proprietary/bin/loc_launcher:system/bin/loc_launcher \
-    vendor/huawei/y560/proprietary/bin/lowi-server:system/bin/lowi-server \
-    vendor/huawei/y560/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
-    vendor/huawei/y560/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
-    vendor/huawei/y560/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
-    vendor/huawei/y560/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
     vendor/huawei/y560/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/huawei/y560/proprietary/etc/izat.conf:system/etc/izat.conf \
-    vendor/huawei/y560/proprietary/etc/lowi.conf:system/etc/lowi.conf \
     vendor/huawei/y560/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/huawei/y560/proprietary/etc/sap.conf:system/etc/sap.conf \
-    vendor/huawei/y560/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
-    vendor/huawei/y560/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/huawei/y560/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/huawei/y560/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/huawei/y560/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libasn1cper.so:system/vendor/lib/libasn1cper.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libasn1crt.so:system/vendor/lib/libasn1crt.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libasn1crtx.so:system/vendor/lib/libasn1crtx.so \
     vendor/huawei/y560/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/huawei/y560/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/huawei/y560/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
-    vendor/huawei/y560/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
-    vendor/huawei/y560/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
-    vendor/huawei/y560/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/huawei/y560/proprietary/bin/serialnoread:system/bin/serialnoread \
     vendor/huawei/y560/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
     vendor/huawei/y560/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \

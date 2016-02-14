@@ -30,7 +30,3 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook
 
-# Prebuilt privileged APKs
-PRODUCT_PACKAGES += \
-    com.qualcomm.location
-
