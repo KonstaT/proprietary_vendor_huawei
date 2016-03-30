@@ -70,6 +70,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libactuator_dw9714_f140858r_camcorder.so:system/vendor/lib/libactuator_dw9714_f140858r_camcorder.so \
     vendor/huawei/y560/proprietary/vendor/lib/libactuator_dw9714_f140858r_camera.so:system/vendor/lib/libactuator_dw9714_f140858r_camera.so \
     vendor/huawei/y560/proprietary/vendor/lib/libactuator_dw9714_f140858r.so:system/vendor/lib/libactuator_dw9714_f140858r.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libactuator_dw9814_hn5872_camcorder.so:system/vendor/lib/libactuator_dw9814_hn5872_camcorder.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libactuator_dw9814_hn5872_camera.so:system/vendor/lib/libactuator_dw9814_hn5872_camera.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libactuator_dw9814_hn5872.so:system/vendor/lib/libactuator_dw9814_hn5872.so \
     vendor/huawei/y560/proprietary/vendor/lib/libchromatix_gc2355_qunhui_ffln_78_common.so:system/vendor/lib/libchromatix_gc2355_qunhui_ffln_78_common.so \
     vendor/huawei/y560/proprietary/vendor/lib/libchromatix_gc2355_qunhui_ffln_78_default_video.so:system/vendor/lib/libchromatix_gc2355_qunhui_ffln_78_default_video.so \
     vendor/huawei/y560/proprietary/vendor/lib/libchromatix_gc2355_qunhui_ffln_78_preview.so:system/vendor/lib/libchromatix_gc2355_qunhui_ffln_78_preview.so \
@@ -78,6 +81,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_gz_bahn_40_default_video.so:system/vendor/lib/libchromatix_hi544_gz_bahn_40_default_video.so \
     vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_gz_bahn_40_preview.so:system/vendor/lib/libchromatix_hi544_gz_bahn_40_preview.so \
     vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_gz_bahn_40_snapshot.so:system/vendor/lib/libchromatix_hi544_gz_bahn_40_snapshot.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_qunhui_baln_40_common.so:system/vendor/lib/libchromatix_hi544_qunhui_baln_40_common.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_qunhui_baln_40_default_video.so:system/vendor/lib/libchromatix_hi544_qunhui_baln_40_default_video.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_qunhui_baln_40_preview.so:system/vendor/lib/libchromatix_hi544_qunhui_baln_40_preview.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libchromatix_hi544_qunhui_baln_40_snapshot.so:system/vendor/lib/libchromatix_hi544_qunhui_baln_40_snapshot.so \
     vendor/huawei/y560/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/huawei/y560/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
@@ -85,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_hi544_gz_bahn_40.so:system/vendor/lib/libmmcamera_hi544_gz_bahn_40.so \
+    vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_hi544_qunhui_baln_40.so:system/vendor/lib/libmmcamera_hi544_qunhui_baln_40.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/huawei/y560/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
