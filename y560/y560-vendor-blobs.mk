@@ -133,7 +133,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/huawei/y560/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/huawei/y560/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
-    vendor/huawei/y560/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/huawei/y560/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/huawei/y560/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/huawei/y560/proprietary/bin/loc_launcher:system/bin/loc_launcher \
