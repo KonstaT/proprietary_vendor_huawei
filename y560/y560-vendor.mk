@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/huawei/y560/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/huawei/y560/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/huawei/y560/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/huawei/y560/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/huawei/y560/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
